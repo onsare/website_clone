@@ -1,0 +1,68 @@
+body, html{
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	height: 100%;
+	width: 100%;
+	margin-top: 0px;
+	margin: 0 auto;
+	background-color: #fff;
+
+}
+
+#logo{
+	background-image: url("assets/images/Apple-Apple.svg.png");
+
+}
+
+#navbar ul li{
+	
+	margin: 0 20px;
+	color: #fff;
+	
+	cursor: default;
+
+	text-align: justify;
+}
+.nav .navbar-nav {
+	
+}
+
+#showcase{
+	display: inline-block;
+}
+/*footer*/
+
+footer{
+	background-color: #f2f2f2;
+	vertical-align: middle;
+	margin: 0px auto;
+	font-size: 1em;
+	
+}
+footer h2{
+	font-size: 12px;
+
+}
+footer ul li{
+	text-decoration: none;
+	list-style: none;
+	font-style: 1em;
+	margin:0px;
+	padding: 0px;
+}
+footer ul li a{
+	text-decoration: none;
+	color: #555;
+
+}
+
+footer ul li a:hover{
+    color:#333;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
